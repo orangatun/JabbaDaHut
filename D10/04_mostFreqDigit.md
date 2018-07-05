@@ -28,4 +28,4 @@
     }
     
     
-    NOTE: This code fails Test Case 9.
+    NOTE: This code has issues.
